@@ -103,7 +103,8 @@ if __name__ == '__main__':
     fout.write(''.join(ranked_types))
     fout.close()
     fout=open(probs_types_file,'w')
-    fout.write(''.join(confidence_types))
+    confidence_types_str = [str(x) for x in confidence_types]
+    fout.write(''.join(confidence_types_str))
     fout.close()
     del class_model
     del class_checkpoint
