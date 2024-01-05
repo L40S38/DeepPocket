@@ -1,0 +1,33 @@
+#    Name: 6mjf_1_SAH_CAVITY_N1_4
+#    Modification time : Fri May 22 19:25:49 2020
+
+@<TRIPOS>MOLECULE
+6mjf_1_SAH_CAVITY_N1_4
+   13     0     5     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OG        -65.8700   27.8500   -8.2300 O.3       1 SER1        0.0000 
+      2 N         -67.2400   30.5900   -6.8700 N.am      2 ALA2        0.0000 
+      3 N         -66.6900   29.1900   -6.8200 N.am      2 ALA2        0.0000 
+      4 N         -66.1500   27.8000   -6.7600 N.am      2 ALA2        0.0000 
+      5 N         -66.9500   30.6400   -8.3400 N.am      2 ALA2        0.0000 
+      6 N         -66.4100   29.2500   -8.2900 N.am      2 ALA2        0.0000 
+      7 N         -66.6700   30.7000   -9.8100 N.am      2 ALA2        0.0000 
+      8 N         -64.7800   28.3400   -6.4800 N.am      2 ALA2        0.0000 
+      9 N         -65.5600   32.6900  -11.0600 N.am      2 ALA2        0.0000 
+     10 N         -65.0200   31.2900  -11.0100 N.am      2 ALA2        0.0000 
+     11 CZ        -65.6100   26.4000   -6.7100 C.ar      3 PHE5        0.0000 
+     12 CA        -66.4300   27.7400   -5.2900 C.3       4 GLY6        0.0000 
+     13 DU        -66.1300   29.3000   -9.7600 H         5 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SER1        1 GROUP   
+     2 ALA2        2 GROUP   
+     3 PHE5       11 GROUP   
+     4 GLY6       12 GROUP   
+     5 CUB7       13 GROUP   
+@<TRIPOS>SET
+

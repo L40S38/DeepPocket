@@ -1,0 +1,30 @@
+#    Name: 5z79_11_PE0_CAVITY_N1_8
+#    Modification time : Fri May 22 19:28:55 2020
+
+@<TRIPOS>MOLECULE
+5z79_11_PE0_CAVITY_N1_8
+   10     0     5     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OG        -39.8400   25.9000   25.7000 O.3       1 SER1        0.0000 
+      2 OG        -39.7400   27.2200   25.0000 O.3       1 SER1        0.0000 
+      3 OG        -38.8100   26.3500   26.6900 O.3       1 SER1        0.0000 
+      4 O         -40.9900   27.4300   28.4500 O.2       2 ALA2        0.0000 
+      5 NZ        -37.6300   27.1300   25.1200 N.4       3 LYS4        0.0000 
+      6 CZ        -41.9500   25.9900   25.5800 C.ar      4 PHE5        0.0000 
+      7 CZ        -42.0100   26.9800   27.4600 C.ar      4 PHE5        0.0000 
+      8 CZ        -40.9300   26.4400   26.5800 C.ar      4 PHE5        0.0000 
+      9 CZ        -41.9200   28.3000   26.7600 C.ar      4 PHE5        0.0000 
+     10 DU        -39.9000   26.8900   27.5700 H         5 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SER1        1 GROUP   
+     2 ALA2        4 GROUP   
+     3 LYS4        5 GROUP   
+     4 PHE5        6 GROUP   
+     5 CUB7       10 GROUP   
+@<TRIPOS>SET
+

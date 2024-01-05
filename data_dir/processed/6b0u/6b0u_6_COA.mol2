@@ -1,0 +1,25 @@
+#    Name: 6b0u_6_COA
+#    Modification time : Fri May 22 19:32:01 2020
+
+@<TRIPOS>MOLECULE
+6b0u_6_COA
+    4     3     1     0     1
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N4P        66.7290   10.8120   94.5370 N.pl3     1 COA502      0.0000 
+      2 C3P        66.1800   11.9880   93.8750 C.ar      1 COA502      0.0000 
+      3 C2P        66.8970   12.2940   92.5520 C.ar      1 COA502      0.0000 
+      4 S1P        66.2440   13.8540   91.8680 Du        1 COA502      0.0000 
+@<TRIPOS>BOND
+     1    1    2 1    
+     2    2    3 ar   
+     3    3    4 du   
+@<TRIPOS>SUBSTRUCTURE
+     1 COA502      1 GROUP   
+@<TRIPOS>SET
+ATOM$ORANGE STATIC     ATOMS   COLORGROUP SYSTEM 
+4 2 2 3 3 
+

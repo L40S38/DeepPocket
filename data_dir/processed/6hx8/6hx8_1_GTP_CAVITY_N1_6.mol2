@@ -1,0 +1,28 @@
+#    Name: 6hx8_1_GTP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:24:10 2020
+
+@<TRIPOS>MOLECULE
+6hx8_1_GTP_CAVITY_N1_6
+   10     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OG         18.1200   76.7800   46.7300 O.3       1 SER1        0.0000 
+      2 OG         15.6200   75.8000   49.2500 O.3       1 SER1        0.0000 
+      3 N          19.3300   75.4400   45.6200 N.am      2 ALA2        0.0000 
+      4 O          18.7500   77.9400   46.0300 O.2       2 ALA2        0.0000 
+      5 N          17.4000   78.5600   45.8300 N.am      2 ALA2        0.0000 
+      6 N          14.9900   74.6400   49.9500 N.am      2 ALA2        0.0000 
+      7 CA         18.6900   74.2800   46.3300 C.3       3 GLY6        0.0000 
+      8 CA         17.4800   75.6200   47.4400 C.3       3 GLY6        0.0000 
+      9 CA         16.8400   74.4600   48.1400 C.3       3 GLY6        0.0000 
+     10 CA         13.7700   75.9800   51.0600 C.3       3 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SER1        1 GROUP   
+     2 ALA2        3 GROUP   
+     3 GLY6        7 GROUP   
+@<TRIPOS>SET
+

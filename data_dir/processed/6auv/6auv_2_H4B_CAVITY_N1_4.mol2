@@ -1,0 +1,26 @@
+#    Name: 6auv_2_H4B_CAVITY_N1_4
+#    Modification time : Fri May 22 19:35:31 2020
+
+@<TRIPOS>MOLECULE
+6auv_2_H4B_CAVITY_N1_4
+    8     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CZ         13.7400    1.4100   52.4700 C.ar      1 PHE5        0.0000 
+      2 CZ         12.3600    1.9800   52.6100 C.ar      1 PHE5        0.0000 
+      3 CZ         14.1200    2.0100   53.7900 C.ar      1 PHE5        0.0000 
+      4 CZ         12.7400    2.5800   53.9300 C.ar      1 PHE5        0.0000 
+      5 CA         11.5300    0.1300   51.9900 C.3       2 GLY6        0.0000 
+      6 CA         13.2900    0.1600   53.1700 C.3       2 GLY6        0.0000 
+      7 DU         13.3600    0.8100   51.1500 H         3 CUB7        0.0000 
+      8 DU         11.9100    0.7300   53.3100 H         3 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 PHE5        1 GROUP   
+     2 GLY6        5 GROUP   
+     3 CUB7        7 GROUP   
+@<TRIPOS>SET
+

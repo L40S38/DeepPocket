@@ -1,0 +1,29 @@
+#    Name: 6ikz_1_UTP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:31:49 2020
+
+@<TRIPOS>MOLECULE
+6ikz_1_UTP_CAVITY_N1_6
+   10     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OD1        13.6400   18.4500  -31.1200 O.co2     1 ASP3        0.0000 
+      2 OD1        14.3700   19.6400  -30.5700 O.co2     1 ASP3        0.0000 
+      3 NZ         12.3400   19.1600  -30.9100 N.4       2 LYS4        0.0000 
+      4 NZ         14.2800   19.0600  -29.1900 N.4       2 LYS4        0.0000 
+      5 CA          9.1700   20.5400  -33.7900 C.3       3 GLY6        0.0000 
+      6 CA         11.0300   19.8600  -30.7000 C.3       3 GLY6        0.0000 
+      7 CA         11.1200   20.4400  -32.0800 C.3       3 GLY6        0.0000 
+      8 CA          9.8100   21.1500  -31.8700 C.3       3 GLY6        0.0000 
+      9 DU         11.2100   21.0300  -33.4600 H         4 CUB7        0.0000 
+     10 DU         14.4600   20.2300  -31.9500 H         4 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ASP3        1 GROUP   
+     2 LYS4        3 GROUP   
+     3 GLY6        5 GROUP   
+     4 CUB7        9 GROUP   
+@<TRIPOS>SET
+

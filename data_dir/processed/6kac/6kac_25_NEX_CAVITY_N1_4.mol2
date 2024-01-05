@@ -1,0 +1,17 @@
+#    Name: 6kac_25_NEX_CAVITY_N1_4
+#    Modification time : Fri May 22 19:34:37 2020
+
+@<TRIPOS>MOLECULE
+6kac_25_NEX_CAVITY_N1_4
+    1     0     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CA        199.2400   73.5000  231.1100 C.3       1 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 GLY6        1 GROUP   
+@<TRIPOS>SET
+

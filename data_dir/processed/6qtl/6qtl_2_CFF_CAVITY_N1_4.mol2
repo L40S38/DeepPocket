@@ -1,0 +1,24 @@
+#    Name: 6qtl_2_CFF_CAVITY_N1_4
+#    Modification time : Fri May 22 19:28:49 2020
+
+@<TRIPOS>MOLECULE
+6qtl_2_CFF_CAVITY_N1_4
+    7     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CZ         13.2400    0.4400   56.2700 C.ar      1 PHE5        0.0000 
+      2 CZ         11.6300    1.0300   58.2300 C.ar      1 PHE5        0.0000 
+      3 CZ         12.7500    0.0300   58.3000 C.ar      1 PHE5        0.0000 
+      4 CZ         13.6600    1.0000   57.6000 C.ar      1 PHE5        0.0000 
+      5 CZ         14.7800    0.0100   57.6700 C.ar      1 PHE5        0.0000 
+      6 CA         10.5100    2.0200   58.1600 C.3       2 GLY6        0.0000 
+      7 CA         12.0500    1.5900   59.5500 C.3       2 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 PHE5        1 GROUP   
+     2 GLY6        6 GROUP   
+@<TRIPOS>SET
+

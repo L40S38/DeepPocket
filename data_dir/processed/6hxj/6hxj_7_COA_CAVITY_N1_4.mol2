@@ -1,0 +1,23 @@
+#    Name: 6hxj_7_COA_CAVITY_N1_4
+#    Modification time : Fri May 22 19:32:30 2020
+
+@<TRIPOS>MOLECULE
+6hxj_7_COA_CAVITY_N1_4
+    6     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N           2.6400   13.2300    4.9200 N.am      1 ALA2        0.0000 
+      2 CA          1.2000    9.8700    5.2700 C.3       2 GLY6        0.0000 
+      3 CA          1.8200   12.3400    5.8000 C.3       2 GLY6        0.0000 
+      4 CA          1.0000   11.4400    6.6800 C.3       2 GLY6        0.0000 
+      5 CA          1.1600    9.4300    7.3400 C.3       2 GLY6        0.0000 
+      6 CA          0.1800   10.5500    7.5600 C.3       2 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 GLY6        2 GROUP   
+@<TRIPOS>SET
+

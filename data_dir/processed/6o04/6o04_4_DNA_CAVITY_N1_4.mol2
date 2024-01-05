@@ -1,0 +1,15 @@
+#    Name: 6o04_4_DNA_CAVITY_N1_4
+#    Modification time : Fri May 22 19:29:31 2020
+
+@<TRIPOS>MOLECULE
+6o04_4_DNA_CAVITY_N1_4
+    0     0     0     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+@<TRIPOS>SET
+

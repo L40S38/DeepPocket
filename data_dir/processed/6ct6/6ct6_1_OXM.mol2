@@ -1,0 +1,31 @@
+#    Name: 6ct6_1_OXM
+#    Modification time : Fri May 22 19:28:27 2020
+
+@<TRIPOS>MOLECULE
+6ct6_1_OXM
+    8     7     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1         -5.1280   92.3510   18.3850 C.2       1 OXM403      0.0000 
+      2 N1         -5.0750   92.8910   19.7360 N.am      1 OXM403      0.0000 
+      3 O1         -5.4470   91.2190   18.2080 O.2       1 OXM403      0.0000 
+      4 C2         -4.7710   93.2360   17.1880 C.2       1 OXM403      0.0000 
+      5 O2         -3.9720   92.8190   16.3110 O.co2     1 OXM403      0.0000 
+      6 O3         -5.2780   94.3820   17.0720 O.co2     1 OXM403      0.0000 
+      7 HN1        -5.2760   92.3910   20.4060 H         1 OXM403      0.0000 
+      8 HN2        -4.8440   93.7090   19.8630 H         1 OXM403      0.0000 
+@<TRIPOS>BOND
+     1    1    2 am   
+     2    1    3 2    
+     3    1    4 1    
+     4    4    5 ar   
+     5    2    7 1    
+     6    2    8 1    
+     7    4    6 ar   
+@<TRIPOS>SUBSTRUCTURE
+     1 OXM403      1 GROUP   
+@<TRIPOS>SET
+

@@ -1,0 +1,26 @@
+#    Name: 6g7x_21_IMD
+#    Modification time : Fri May 22 19:29:00 2020
+
+@<TRIPOS>MOLECULE
+6g7x_21_IMD
+    5     5     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N1         25.2840    7.9620   24.3100 N.pl3     1 IMD302      0.0000 
+      2 C2         25.2460    7.6320   22.9960 C.2       1 IMD302      0.0000 
+      3 N3         25.9890    8.5230   22.3030 N.2       1 IMD302      0.0000 
+      4 C4         26.5040    9.4170   23.1740 C.2       1 IMD302      0.0000 
+      5 C5         26.0530    9.0660   24.4450 C.2       1 IMD302      0.0000 
+@<TRIPOS>BOND
+     1    1    2 1    
+     2    1    5 1    
+     3    2    3 2    
+     4    3    4 1    
+     5    4    5 2    
+@<TRIPOS>SUBSTRUCTURE
+     1 IMD302      1 GROUP   
+@<TRIPOS>SET
+

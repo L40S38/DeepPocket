@@ -1,0 +1,30 @@
+#    Name: 6hqu_3_ADP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:29:35 2020
+
+@<TRIPOS>MOLECULE
+6hqu_3_ADP_CAVITY_N1_4
+   11     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O         -41.0700   -1.5500   12.7600 O.2       1 ALA2        0.0000 
+      2 O         -40.5200   -2.9200   12.5100 O.2       1 ALA2        0.0000 
+      3 NZ        -43.2800   -2.0700   10.8000 N.4       2 LYS4        0.0000 
+      4 NZ        -41.3100    1.7400   12.1600 N.4       2 LYS4        0.0000 
+      5 CA        -42.1700    1.2000   13.2700 C.3       3 GLY6        0.0000 
+      6 CA        -41.6200   -0.1800   13.0100 C.3       3 GLY6        0.0000 
+      7 CA        -40.7600    0.3700   11.9100 C.3       3 GLY6        0.0000 
+      8 DU        -43.5800   -0.9800   13.1400 H         4 CUB7        0.0000 
+      9 DU        -43.0300   -2.3500   12.8800 H         4 CUB7        0.0000 
+     10 DU        -42.1700   -1.8100   11.7800 H         4 CUB7        0.0000 
+     11 DU        -42.4100    1.4800   11.1800 H         4 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 LYS4        3 GROUP   
+     3 GLY6        5 GROUP   
+     4 CUB7        8 GROUP   
+@<TRIPOS>SET
+

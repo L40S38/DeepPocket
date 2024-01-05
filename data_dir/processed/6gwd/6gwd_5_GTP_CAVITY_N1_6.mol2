@@ -1,0 +1,26 @@
+#    Name: 6gwd_5_GTP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:28:41 2020
+
+@<TRIPOS>MOLECULE
+6gwd_5_GTP_CAVITY_N1_6
+    7     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O        -211.1400   -9.7400  181.7200 O.2       1 ALA2        0.0000 
+      2 O        -211.2300   -8.2400  181.7100 O.2       1 ALA2        0.0000 
+      3 CZ       -211.7200   -6.7400  185.0200 C.ar      2 PHE5        0.0000 
+      4 CA       -212.1500   -6.7800  182.9500 C.3       3 GLY6        0.0000 
+      5 CA       -210.8100   -8.1900  183.7900 C.3       3 GLY6        0.0000 
+      6 CA       -211.6300   -8.2300  185.0400 C.3       3 GLY6        0.0000 
+      7 DU       -212.0600   -8.2800  182.9600 H         4 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 PHE5        3 GROUP   
+     3 GLY6        4 GROUP   
+     4 CUB7        7 GROUP   
+@<TRIPOS>SET
+

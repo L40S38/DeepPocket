@@ -1,0 +1,17 @@
+#    Name: 6auw_1_H4B_CAVITY_N1_4
+#    Modification time : Fri May 22 19:35:41 2020
+
+@<TRIPOS>MOLECULE
+6auw_1_H4B_CAVITY_N1_4
+    1     0     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CZ         11.9900    2.6400   28.3100 C.ar      1 PHE5        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 PHE5        1 GROUP   
+@<TRIPOS>SET
+

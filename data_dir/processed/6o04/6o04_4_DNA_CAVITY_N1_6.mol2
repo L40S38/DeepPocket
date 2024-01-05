@@ -1,0 +1,22 @@
+#    Name: 6o04_4_DNA_CAVITY_N1_6
+#    Modification time : Fri May 22 19:29:31 2020
+
+@<TRIPOS>MOLECULE
+6o04_4_DNA_CAVITY_N1_6
+    5     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CA          9.6600   -7.4700   -3.9200 C.3       1 GLY6        0.0000 
+      2 CA         10.0100   -4.8100    1.8600 C.3       1 GLY6        0.0000 
+      3 DU          8.7900   -6.2900   -0.9000 H         2 CUB7        0.0000 
+      4 DU          8.9100   -5.4000    1.0300 H         2 CUB7        0.0000 
+      5 DU          9.6200   -4.3500   -0.6700 H         2 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 GLY6        1 GROUP   
+     2 CUB7        3 GROUP   
+@<TRIPOS>SET
+

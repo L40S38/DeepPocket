@@ -1,0 +1,19 @@
+#    Name: 5nbl_2_ATP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:13:04 2020
+
+@<TRIPOS>MOLECULE
+5nbl_2_ATP_CAVITY_N1_4
+    3     0     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N         -22.1600  198.6400    3.2700 N.am      1 ALA2        0.0000 
+      2 O         -21.2700  197.5600    3.8100 O.2       1 ALA2        0.0000 
+      3 N         -20.6100  198.5500    4.7200 N.am      1 ALA2        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+@<TRIPOS>SET
+

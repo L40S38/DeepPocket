@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.1017
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0094
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5781
+HEADER 5  - Mean B-factor of pocket residues  : 0.3463
+HEADER 6  - Hydrophobicity Score              : 19.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.1258
+HEADER 10 - Pocket volume (convex hull)       : 0.6713
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM   1690  OE1 GLU A 658      59.449  39.756  74.425  0.83  8.57           O 0
+ATOM   1688   CG GLU A 658      59.504  38.203  76.232  0.00  0.00           C 0
+ATOM   1689   CD GLU A 658      60.122  38.894  75.029  0.00  0.00           C 0
+ATOM   1951    O GLN A 691      59.325  46.119  77.986  0.48  7.50           O 0
+ATOM   1964  CD2 LEU A 692      56.164  43.666  78.312  0.00  0.00           C 0
+ATOM   1894   CB GLU A 684      58.909  37.994  81.546  0.00  0.00           C 0
+ATOM   1946   CB SER A 690      57.516  43.935  82.183  0.00  0.00           C 0
+ATOM   1893    O GLU A 684      56.804  40.518  82.226  0.71  1.07           O 0
+ATOM   1892    C GLU A 684      56.810  39.346  81.831  0.00  0.00           C 0
+ATOM   1947   OG SER A 690      57.800  43.035  83.233  0.71  4.29           O 0
+ATOM   1687   CB GLU A 658      58.006  37.974  76.095  0.00  0.00           C 0
+ATOM   1900   CA TRP A 685      55.197  39.835  80.042  0.00  0.00           C 0
+ATOM   1899    N TRP A 685      56.048  38.933  80.812  0.00  0.00           N 0
+TER
+END

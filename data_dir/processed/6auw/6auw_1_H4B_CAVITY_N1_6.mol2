@@ -1,0 +1,34 @@
+#    Name: 6auw_1_H4B_CAVITY_N1_6
+#    Modification time : Fri May 22 19:35:41 2020
+
+@<TRIPOS>MOLECULE
+6auw_1_H4B_CAVITY_N1_6
+   14     0     5     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          13.8500    3.2500   27.5000 N.am      1 ALA2        0.0000 
+      2 N          12.4900    3.8600   27.6100 N.am      1 ALA2        0.0000 
+      3 NZ         14.3400    0.8000   26.7700 N.4       2 LYS4        0.0000 
+      4 NZ         12.9700    1.4200   26.8800 N.4       2 LYS4        0.0000 
+      5 NZ         11.6100    2.0400   26.9900 N.4       2 LYS4        0.0000 
+      6 NZ         11.1100    0.8100   27.6900 N.4       2 LYS4        0.0000 
+      7 CZ         10.7500    3.8800   26.4000 C.ar      3 PHE5        0.0000 
+      8 CZ          9.3900    4.5000   26.5100 C.ar      3 PHE5        0.0000 
+      9 CZ         10.2500    2.6600   27.1000 C.ar      3 PHE5        0.0000 
+     10 CZ         11.1300    4.4800   27.7200 C.ar      3 PHE5        0.0000 
+     11 CZ         11.9900    2.6400   28.3100 C.ar      3 PHE5        0.0000 
+     12 CA         14.7100    1.4000   28.0900 C.3       4 GLY6        0.0000 
+     13 DU         12.1100    3.2700   26.2900 H         5 CUB7        0.0000 
+     14 DU         13.3500    2.0200   28.2000 H         5 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 LYS4        3 GROUP   
+     3 PHE5        7 GROUP   
+     4 GLY6       12 GROUP   
+     5 CUB7       13 GROUP   
+@<TRIPOS>SET
+

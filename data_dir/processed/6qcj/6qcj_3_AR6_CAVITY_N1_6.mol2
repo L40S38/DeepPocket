@@ -1,0 +1,23 @@
+#    Name: 6qcj_3_AR6_CAVITY_N1_6
+#    Modification time : Fri May 22 19:33:56 2020
+
+@<TRIPOS>MOLECULE
+6qcj_3_AR6_CAVITY_N1_6
+    6     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CZ        -34.2300   16.7200   45.0300 C.ar      1 PHE5        0.0000 
+      2 CZ        -35.5900   16.6100   45.6400 C.ar      1 PHE5        0.0000 
+      3 CZ        -28.4200   15.7900   43.1200 C.ar      1 PHE5        0.0000 
+      4 CZ        -32.5100   15.4700   44.9500 C.ar      1 PHE5        0.0000 
+      5 CZ        -33.8800   15.3600   45.5700 C.ar      1 PHE5        0.0000 
+      6 CA        -32.6700   13.2700   47.8900 C.3       2 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 PHE5        1 GROUP   
+     2 GLY6        6 GROUP   
+@<TRIPOS>SET
+

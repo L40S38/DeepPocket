@@ -1,0 +1,27 @@
+#    Name: 6kac_12_NEX_CAVITY_N1_6
+#    Modification time : Fri May 22 19:33:42 2020
+
+@<TRIPOS>MOLECULE
+6kac_12_NEX_CAVITY_N1_6
+    8     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 NZ        175.0900  142.2200  231.3300 N.4       1 LYS4        0.0000 
+      2 CZ        171.2600  140.5400  232.0500 C.ar      2 PHE5        0.0000 
+      3 CZ        173.1800  141.3800  231.6900 C.ar      2 PHE5        0.0000 
+      4 CZ        173.6400  140.9200  233.0400 C.ar      2 PHE5        0.0000 
+      5 CZ        175.5500  141.7500  232.6800 C.ar      2 PHE5        0.0000 
+      6 CA        176.3700  141.7200  230.7200 C.3       3 GLY6        0.0000 
+      7 DU        172.5400  140.0400  231.4500 H         4 CUB7        0.0000 
+      8 DU        174.4600  140.8800  231.0800 H         4 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 LYS4        1 GROUP   
+     2 PHE5        2 GROUP   
+     3 GLY6        6 GROUP   
+     4 CUB7        7 GROUP   
+@<TRIPOS>SET
+

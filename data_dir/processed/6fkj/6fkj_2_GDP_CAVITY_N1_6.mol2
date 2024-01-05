@@ -1,0 +1,25 @@
+#    Name: 6fkj_2_GDP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:30:10 2020
+
+@<TRIPOS>MOLECULE
+6fkj_2_GDP_CAVITY_N1_6
+    8     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          11.6800   48.2500   12.0400 N.am      1 ALA2        0.0000 
+      2 O           9.7700   51.3700   12.3400 O.2       1 ALA2        0.0000 
+      3 O          10.4700   49.5500   13.1900 O.2       1 ALA2        0.0000 
+      4 O           9.1200   50.1900   13.0000 O.2       1 ALA2        0.0000 
+      5 N           9.9000   52.0400   13.6800 N.am      1 ALA2        0.0000 
+      6 N           8.5600   52.6700   13.4900 N.am      1 ALA2        0.0000 
+      7 CZ          9.8200   48.3700   13.8400 C.ar      2 PHE5        0.0000 
+      8 CZ          8.4700   49.0000   13.6500 C.ar      2 PHE5        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 PHE5        7 GROUP   
+@<TRIPOS>SET
+

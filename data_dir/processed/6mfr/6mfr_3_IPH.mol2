@@ -1,0 +1,30 @@
+#    Name: 6mfr_3_IPH
+#    Modification time : Fri May 22 19:38:30 2020
+
+@<TRIPOS>MOLECULE
+6mfr_3_IPH
+    7     7     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1        136.5430  157.9530  179.5520 C.ar      1 IPH902      0.0000 
+      2 C2        137.2500  158.9470  178.8850 C.ar      1 IPH902      0.0000 
+      3 C3        137.6070  160.1130  179.5530 C.ar      1 IPH902      0.0000 
+      4 C4        137.2530  160.2880  180.8850 C.ar      1 IPH902      0.0000 
+      5 C5        136.5400  159.2970  181.5470 C.ar      1 IPH902      0.0000 
+      6 C6        136.1880  158.1270  180.8840 C.ar      1 IPH902      0.0000 
+      7 O1        136.1870  156.8060  178.8930 O.3       1 IPH902      0.0000 
+@<TRIPOS>BOND
+     1    1    2 ar   
+     2    1    6 ar   
+     3    1    7 1    
+     4    2    3 ar   
+     5    3    4 ar   
+     6    4    5 ar   
+     7    5    6 ar   
+@<TRIPOS>SUBSTRUCTURE
+     1 IPH902      1 GROUP   
+@<TRIPOS>SET
+

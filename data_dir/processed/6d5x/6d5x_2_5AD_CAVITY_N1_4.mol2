@@ -1,0 +1,17 @@
+#    Name: 6d5x_2_5AD_CAVITY_N1_4
+#    Modification time : Fri May 22 19:28:47 2020
+
+@<TRIPOS>MOLECULE
+6d5x_2_5AD_CAVITY_N1_4
+    1     0     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CA        -45.5200   55.0000   -5.8800 C.3       1 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 GLY6        1 GROUP   
+@<TRIPOS>SET
+

@@ -1,0 +1,28 @@
+#    Name: 6ote_1_SSA_CAVITY_N1_4
+#    Modification time : Fri May 22 19:31:02 2020
+
+@<TRIPOS>MOLECULE
+6ote_1_SSA_CAVITY_N1_4
+   10     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OD1        15.2000    3.8300   29.8200 O.co2     1 ASP3        0.0000 
+      2 OD1        14.3000    5.4000   31.6900 O.co2     1 ASP3        0.0000 
+      3 OD1        15.1300    5.8400   30.5100 O.co2     1 ASP3        0.0000 
+      4 OD1        15.9800    6.6700   31.4200 O.co2     1 ASP3        0.0000 
+      5 NZ         16.1100    2.6700   30.0400 N.4       2 LYS4        0.0000 
+      6 NZ         17.7700    3.5300   27.6900 N.4       2 LYS4        0.0000 
+      7 NZ         17.7900    3.9400   29.7800 N.4       2 LYS4        0.0000 
+      8 DU         16.0500    4.6700   30.7300 H         3 CUB7        0.0000 
+      9 DU         16.8700    5.1000   29.5600 H         3 CUB7        0.0000 
+     10 DU         16.8900    5.5100   31.6400 H         3 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ASP3        1 GROUP   
+     2 LYS4        5 GROUP   
+     3 CUB7        8 GROUP   
+@<TRIPOS>SET
+

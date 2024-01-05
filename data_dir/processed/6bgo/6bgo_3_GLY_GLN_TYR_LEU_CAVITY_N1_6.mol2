@@ -1,0 +1,23 @@
+#    Name: 6bgo_3_GLY_GLN_TYR_LEU_CAVITY_N1_6
+#    Modification time : Fri May 22 19:31:35 2020
+
+@<TRIPOS>MOLECULE
+6bgo_3_GLY_GLN_TYR_LEU_CAVITY_N1_6
+    5     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OD1       239.1000  208.9000  260.4200 O.co2     1 ASP3        0.0000 
+      2 CA        239.6800  209.4800  261.6700 C.3       2 GLY6        0.0000 
+      3 CA        238.5700  206.8500  263.4300 C.3       2 GLY6        0.0000 
+      4 DU        238.6600  208.7500  262.4900 H         3 CUB7        0.0000 
+      5 DU        239.2400  209.3400  263.7500 H         3 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ASP3        1 GROUP   
+     2 GLY6        2 GROUP   
+     3 CUB7        4 GROUP   
+@<TRIPOS>SET
+

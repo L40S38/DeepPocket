@@ -1,0 +1,19 @@
+#    Name: 6cip_6_HTL_CAVITY_N1_4
+#    Modification time : Fri May 22 19:40:05 2020
+
+@<TRIPOS>MOLECULE
+6cip_6_HTL_CAVITY_N1_4
+    2     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O        -101.1800  -18.7800   21.6700 O.2       1 ALA2        0.0000 
+      2 CA       -102.2700  -17.2500   22.6600 C.3       2 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 GLY6        2 GROUP   
+@<TRIPOS>SET
+

@@ -1,0 +1,32 @@
+#    Name: 5ykg_6_AGS_CAVITY_N1_4
+#    Modification time : Fri May 22 19:31:45 2020
+
+@<TRIPOS>MOLECULE
+5ykg_6_AGS_CAVITY_N1_4
+   13     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          92.7000  199.7700  135.1000 N.am      1 ALA2        0.0000 
+      2 CZ         90.9500  196.2100  137.2300 C.ar      2 PHE5        0.0000 
+      3 CZ         91.6000  197.0100  139.0900 C.ar      2 PHE5        0.0000 
+      4 CA         92.7200  197.6800  134.7800 C.3       3 GLY6        0.0000 
+      5 CA         91.6800  198.7600  134.6800 C.3       3 GLY6        0.0000 
+      6 CA         91.9700  197.2300  137.6500 C.3       3 GLY6        0.0000 
+      7 CA         92.6300  195.9300  139.1900 C.3       3 GLY6        0.0000 
+      8 CA         93.7300  198.6900  135.2000 C.3       3 GLY6        0.0000 
+      9 CA         93.6500  196.9400  139.6100 C.3       3 GLY6        0.0000 
+     10 DU         90.2900  197.5100  135.6900 H         4 CUB7        0.0000 
+     11 DU         91.3100  198.5300  136.1100 H         4 CUB7        0.0000 
+     12 DU         90.9300  198.3100  137.5500 H         4 CUB7        0.0000 
+     13 DU         92.6100  198.0200  139.5100 H         4 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 PHE5        2 GROUP   
+     3 GLY6        4 GROUP   
+     4 CUB7       10 GROUP   
+@<TRIPOS>SET
+

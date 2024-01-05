@@ -1,0 +1,24 @@
+#    Name: 6gx7_3_GTP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:29:46 2020
+
+@<TRIPOS>MOLECULE
+6gx7_3_GTP_CAVITY_N1_6
+    6     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          18.3300  -12.4700    1.9000 N.am      1 ALA2        0.0000 
+      2 N          17.5000  -10.9800    3.8500 N.am      1 ALA2        0.0000 
+      3 CZ         19.1700  -13.7000    2.0400 C.ar      2 PHE5        0.0000 
+      4 CA         20.0500  -13.2400    0.9200 C.3       3 GLY6        0.0000 
+      5 CA         19.2100  -12.0100    0.7700 C.3       3 GLY6        0.0000 
+      6 CA         17.4600  -12.9300    3.0200 C.3       3 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 PHE5        3 GROUP   
+     3 GLY6        4 GROUP   
+@<TRIPOS>SET
+

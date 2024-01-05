@@ -1,0 +1,30 @@
+#    Name: 6hxj_5_COA_CAVITY_N1_4
+#    Modification time : Fri May 22 19:32:04 2020
+
+@<TRIPOS>MOLECULE
+6hxj_5_COA_CAVITY_N1_4
+   12     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          45.0500   19.8100   17.9500 N.am      1 ALA2        0.0000 
+      2 N          46.0000   18.2600   19.8000 N.am      1 ALA2        0.0000 
+      3 N          46.6200   20.7200   20.3400 N.am      1 ALA2        0.0000 
+      4 N          45.6300   21.8400   20.5600 N.am      1 ALA2        0.0000 
+      5 N          45.5600   20.9600   24.7100 N.am      1 ALA2        0.0000 
+      6 CA         44.2300   18.9100   18.8300 C.3       2 GLY6        0.0000 
+      7 CA         45.0100   19.3700   20.0200 C.3       2 GLY6        0.0000 
+      8 CA         45.8000   19.8300   21.2200 C.3       2 GLY6        0.0000 
+      9 CA         44.6100   22.5100   22.8500 C.3       2 GLY6        0.0000 
+     10 CA         44.7800   20.5000   23.5100 C.3       2 GLY6        0.0000 
+     11 DU         44.8100   20.9400   21.4400 H         3 CUB7        0.0000 
+     12 DU         45.6000   21.4000   22.6300 H         3 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 GLY6        6 GROUP   
+     3 CUB7       11 GROUP   
+@<TRIPOS>SET
+

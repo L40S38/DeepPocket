@@ -1,0 +1,29 @@
+#    Name: 6jbd_1_ATP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:27:23 2020
+
+@<TRIPOS>MOLECULE
+6jbd_1_ATP_CAVITY_N1_4
+    9     0     5     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N         -53.5400   51.2500   39.7600 N.am      1 ALA2        0.0000 
+      2 N         -50.2100   51.1900   40.2100 N.am      1 ALA2        0.0000 
+      3 N         -51.7300   50.1300   41.2500 N.am      1 ALA2        0.0000 
+      4 N         -51.6200   51.4900   40.6300 N.am      1 ALA2        0.0000 
+      5 N         -53.1300   50.4400   41.6800 N.am      1 ALA2        0.0000 
+      6 OD1       -53.6500   49.8900   40.3800 O.co2     2 ASP3        0.0000 
+      7 NZ        -49.7000   51.7300   41.5000 N.4       3 LYS4        0.0000 
+      8 CA        -52.6200   50.9800   42.9800 C.3       4 GLY6        0.0000 
+      9 DU        -51.2100   50.6800   42.5500 H         5 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 ASP3        6 GROUP   
+     3 LYS4        7 GROUP   
+     4 GLY6        8 GROUP   
+     5 CUB7        9 GROUP   
+@<TRIPOS>SET
+

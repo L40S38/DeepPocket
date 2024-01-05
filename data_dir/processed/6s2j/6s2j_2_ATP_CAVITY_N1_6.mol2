@@ -1,0 +1,24 @@
+#    Name: 6s2j_2_ATP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:26:04 2020
+
+@<TRIPOS>MOLECULE
+6s2j_2_ATP_CAVITY_N1_6
+    7     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O          42.9400   75.1900    0.6500 O.2       1 ALA2        0.0000 
+      2 N          43.0300   75.4700    3.2300 N.am      1 ALA2        0.0000 
+      3 CA         42.8500   76.3200   -0.3400 C.3       2 GLY6        0.0000 
+      4 CA         41.7900   76.9600    0.5000 C.3       2 GLY6        0.0000 
+      5 CA         41.8800   75.8400    1.4800 C.3       2 GLY6        0.0000 
+      6 CA         43.9000   77.0700    0.4100 C.3       2 GLY6        0.0000 
+      7 CA         44.0000   75.9500    1.4000 C.3       2 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 GLY6        3 GROUP   
+@<TRIPOS>SET
+

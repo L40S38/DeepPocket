@@ -1,0 +1,18 @@
+#    Name: 6d5x_3_ATP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:28:54 2020
+
+@<TRIPOS>MOLECULE
+6d5x_3_ATP_CAVITY_N1_4
+    2     0     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OD1       -41.9800   33.1500  -27.0500 O.co2     1 ASP3        0.0000 
+      2 OD1       -40.9700   32.0700  -27.2500 O.co2     1 ASP3        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ASP3        1 GROUP   
+@<TRIPOS>SET
+

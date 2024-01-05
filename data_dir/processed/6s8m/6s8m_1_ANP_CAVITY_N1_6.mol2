@@ -1,0 +1,26 @@
+#    Name: 6s8m_1_ANP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:25:19 2020
+
+@<TRIPOS>MOLECULE
+6s8m_1_ANP_CAVITY_N1_6
+    9     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N         120.6600   86.9300  150.4400 N.am      1 ALA2        0.0000 
+      2 N         124.6500   87.8400  148.5500 N.am      1 ALA2        0.0000 
+      3 N         123.6200   88.7200  149.2000 N.am      1 ALA2        0.0000 
+      4 CA        125.6700   86.9500  147.9000 C.3       2 GLY6        0.0000 
+      5 CA        125.2000   85.8000  148.7300 C.3       2 GLY6        0.0000 
+      6 CA        124.1700   86.6800  149.3800 C.3       2 GLY6        0.0000 
+      7 CA        123.1500   87.5600  150.0300 C.3       2 GLY6        0.0000 
+      8 CA        121.6500   87.2900  151.5000 C.3       2 GLY6        0.0000 
+      9 CA        120.6300   88.1700  152.1500 C.3       2 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 GLY6        4 GROUP   
+@<TRIPOS>SET
+

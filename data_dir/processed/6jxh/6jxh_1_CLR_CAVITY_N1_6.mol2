@@ -1,0 +1,23 @@
+#    Name: 6jxh_1_CLR_CAVITY_N1_6
+#    Modification time : Fri May 22 19:35:40 2020
+
+@<TRIPOS>MOLECULE
+6jxh_1_CLR_CAVITY_N1_6
+    5     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OG         31.9000  -55.0500  -62.4200 O.3       1 SER1        0.0000 
+      2 OG         33.7400  -55.0100  -59.6200 O.3       1 SER1        0.0000 
+      3 CZ         29.9900  -56.4000  -63.5500 C.ar      2 PHE5        0.0000 
+      4 CZ         28.5200  -56.1300  -63.4000 C.ar      2 PHE5        0.0000 
+      5 DU         33.3600  -55.3300  -62.5800 H         3 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SER1        1 GROUP   
+     2 PHE5        3 GROUP   
+     3 CUB7        5 GROUP   
+@<TRIPOS>SET
+

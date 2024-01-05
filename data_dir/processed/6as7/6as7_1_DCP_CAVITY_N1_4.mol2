@@ -1,0 +1,24 @@
+#    Name: 6as7_1_DCP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:27:45 2020
+
+@<TRIPOS>MOLECULE
+6as7_1_DCP_CAVITY_N1_4
+    5     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OG         24.9400  -17.0100   24.9800 O.3       1 SER1        0.0000 
+      2 N          22.8200  -16.4700   23.5700 N.am      2 ALA2        0.0000 
+      3 OD1        22.1400  -15.1600   25.0900 O.co2     3 ASP3        0.0000 
+      4 OD1        23.4900  -15.5300   24.5300 O.co2     3 ASP3        0.0000 
+      5 CA         24.8300  -15.9000   23.9700 C.3       4 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SER1        1 GROUP   
+     2 ALA2        2 GROUP   
+     3 ASP3        3 GROUP   
+     4 GLY6        5 GROUP   
+@<TRIPOS>SET
+

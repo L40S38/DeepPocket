@@ -1,0 +1,21 @@
+#    Name: 6kac_19_NEX_CAVITY_N1_4
+#    Modification time : Fri May 22 19:34:07 2020
+
+@<TRIPOS>MOLECULE
+6kac_19_NEX_CAVITY_N1_4
+    4     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CZ        206.9600  278.6800  230.8300 C.ar      1 PHE5        0.0000 
+      2 CZ        216.5400  276.5300  226.8300 C.ar      1 PHE5        0.0000 
+      3 CA        205.0400  277.8500  231.1900 C.3       2 GLY6        0.0000 
+      4 CA        215.2600  277.0300  227.4300 C.3       2 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 PHE5        1 GROUP   
+     2 GLY6        3 GROUP   
+@<TRIPOS>SET
+

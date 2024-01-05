@@ -1,0 +1,25 @@
+#    Name: 5xag_5_GTP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:19:49 2020
+
+@<TRIPOS>MOLECULE
+5xag_5_GTP_CAVITY_N1_6
+    6     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OG          7.0100  -15.9600   16.4500 O.3       1 SER1        0.0000 
+      2 OG          8.2300  -15.2300   15.9500 O.3       1 SER1        0.0000 
+      3 N           7.3500  -14.1200   15.4600 N.am      2 ALA2        0.0000 
+      4 CZ          5.5400  -18.0700   14.3100 C.ar      3 PHE5        0.0000 
+      5 CA          6.0100  -15.5400   14.6300 C.3       4 GLY6        0.0000 
+      6 CA         10.4400  -14.9300   17.2700 C.3       4 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SER1        1 GROUP   
+     2 ALA2        3 GROUP   
+     3 PHE5        4 GROUP   
+     4 GLY6        5 GROUP   
+@<TRIPOS>SET
+

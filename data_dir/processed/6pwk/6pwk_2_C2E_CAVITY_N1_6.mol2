@@ -1,0 +1,30 @@
+#    Name: 6pwk_2_C2E_CAVITY_N1_6
+#    Modification time : Fri May 22 19:36:34 2020
+
+@<TRIPOS>MOLECULE
+6pwk_2_C2E_CAVITY_N1_6
+   11     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O         -48.5300   19.1700   -5.7500 O.2       1 ALA2        0.0000 
+      2 O         -44.8600   19.3100   -5.5800 O.2       1 ALA2        0.0000 
+      3 N         -44.3600   20.9700   -4.3500 N.am      1 ALA2        0.0000 
+      4 CZ        -50.9800   17.4400   -4.2500 C.ar      2 PHE5        0.0000 
+      5 CZ        -47.8500   17.8900   -6.1200 C.ar      2 PHE5        0.0000 
+      6 CZ        -46.6700   18.2600   -5.2600 C.ar      2 PHE5        0.0000 
+      7 CA        -50.3400   18.1200   -5.4300 C.3       3 GLY6        0.0000 
+      8 CA        -49.1700   18.4900   -4.5700 C.3       3 GLY6        0.0000 
+      9 CA        -45.3500   17.6600   -6.8100 C.3       3 GLY6        0.0000 
+     10 CA        -43.5400   18.7100   -7.1300 C.3       3 GLY6        0.0000 
+     11 DU        -49.6600   16.8400   -5.8000 H         4 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 PHE5        4 GROUP   
+     3 GLY6        7 GROUP   
+     4 CUB7       11 GROUP   
+@<TRIPOS>SET
+

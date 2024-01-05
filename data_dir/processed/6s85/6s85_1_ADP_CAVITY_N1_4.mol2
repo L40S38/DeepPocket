@@ -1,0 +1,15 @@
+#    Name: 6s85_1_ADP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:42:09 2020
+
+@<TRIPOS>MOLECULE
+6s85_1_ADP_CAVITY_N1_4
+    0     0     0     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+@<TRIPOS>SET
+

@@ -1,0 +1,15 @@
+#    Name: 6pwk_2_C2E_CAVITY_N1_4
+#    Modification time : Fri May 22 19:36:34 2020
+
+@<TRIPOS>MOLECULE
+6pwk_2_C2E_CAVITY_N1_4
+    0     0     0     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+@<TRIPOS>SET
+

@@ -1,0 +1,30 @@
+#    Name: 6cm2_3_GTP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:28:15 2020
+
+@<TRIPOS>MOLECULE
+6cm2_3_GTP_CAVITY_N1_6
+   10     0     5     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OG         32.5300   51.9100   96.4100 O.3       1 SER1        0.0000 
+      2 OG         31.4000   51.8900   97.3900 O.3       1 SER1        0.0000 
+      3 N          32.7300   51.2400   98.9100 N.am      2 ALA2        0.0000 
+      4 OD1        31.6600   51.2400   95.3900 O.co2     3 ASP3        0.0000 
+      5 CA         28.9400   52.5300   96.8700 C.3       4 GLY6        0.0000 
+      6 CA         30.5300   51.2200   96.3800 C.3       4 GLY6        0.0000 
+      7 CA         30.2700   51.8700   98.3800 C.3       4 GLY6        0.0000 
+      8 CA         30.7300   50.5400   98.8800 C.3       4 GLY6        0.0000 
+      9 DU         31.8600   50.5600   97.8900 H         5 CUB7        0.0000 
+     10 DU         32.0600   49.8800  100.3900 H         5 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SER1        1 GROUP   
+     2 ALA2        3 GROUP   
+     3 ASP3        4 GROUP   
+     4 GLY6        5 GROUP   
+     5 CUB7        9 GROUP   
+@<TRIPOS>SET
+

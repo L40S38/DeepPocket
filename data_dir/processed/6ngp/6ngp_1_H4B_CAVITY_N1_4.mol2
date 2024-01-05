@@ -1,0 +1,28 @@
+#    Name: 6ngp_1_H4B_CAVITY_N1_4
+#    Modification time : Fri May 22 19:30:32 2020
+
+@<TRIPOS>MOLECULE
+6ngp_1_H4B_CAVITY_N1_4
+    9     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          11.9800    3.2000   31.0900 N.am      1 ALA2        0.0000 
+      2 N          11.5700    1.9300   31.7800 N.am      1 ALA2        0.0000 
+      3 NZ         10.8300    0.7400   29.1300 N.4       2 LYS4        0.0000 
+      4 CZ         11.6100    2.6100   29.7700 C.ar      3 PHE5        0.0000 
+      5 CZ          9.8100    1.8700   30.6100 C.ar      3 PHE5        0.0000 
+      6 CZ         10.1800    2.4600   31.9300 C.ar      3 PHE5        0.0000 
+      7 DU         13.0000    2.0700   29.6100 H         4 CUB7        0.0000 
+      8 DU         12.5900    0.8000   30.3000 H         4 CUB7        0.0000 
+      9 DU         11.2000    1.3400   30.4500 H         4 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 LYS4        3 GROUP   
+     3 PHE5        4 GROUP   
+     4 CUB7        7 GROUP   
+@<TRIPOS>SET
+

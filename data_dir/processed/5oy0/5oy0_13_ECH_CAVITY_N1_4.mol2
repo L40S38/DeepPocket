@@ -1,0 +1,21 @@
+#    Name: 5oy0_13_ECH_CAVITY_N1_4
+#    Modification time : Fri May 22 19:16:05 2020
+
+@<TRIPOS>MOLECULE
+5oy0_13_ECH_CAVITY_N1_4
+    5     0     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CA        111.8700  -72.4200   24.7500 C.3       1 GLY6        0.0000 
+      2 CA        110.8200  -71.8200   25.6400 C.3       1 GLY6        0.0000 
+      3 CA        109.7600  -71.2200   26.5200 C.3       1 GLY6        0.0000 
+      4 CA        113.7300  -74.9600   23.5900 C.3       1 GLY6        0.0000 
+      5 CA        110.8000  -70.9500   27.5700 C.3       1 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 GLY6        1 GROUP   
+@<TRIPOS>SET
+

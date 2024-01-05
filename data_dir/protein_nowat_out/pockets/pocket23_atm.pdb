@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0610
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8610
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5327
+HEADER 5  - Mean B-factor of pocket residues  : 0.4554
+HEADER 6  - Hydrophobicity Score              : -15.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.8837
+HEADER 10 - Pocket volume (convex hull)       : 1.4494
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    771  NH2 ARG A 509      35.168  53.218  76.881  0.52  9.84           N 0
+ATOM    719    O GLY A 503      32.282  49.156  76.748  0.59  2.14           O 0
+ATOM    797   NZ LYS A 512      31.067  51.030  70.471  0.36  8.75           N 0
+ATOM    768   NE ARG A 509      35.408  50.963  76.579  0.69  1.09           N 0
+ATOM    766   CG ARG A 509      35.612  49.348  74.764  0.00  0.00           C 0
+ATOM    764    O ARG A 509      38.170  49.440  71.279  0.76  1.07           O 0
+ATOM    793   CB LYS A 512      35.927  51.572  69.236  0.00  0.00           C 0
+ATOM    770  NH1 ARG A 509      37.142  52.397  76.053  0.68  6.56           N 0
+ATOM    791    C LYS A 512      38.298  51.887  68.541  0.00  0.00           C 0
+ATOM    792    O LYS A 512      38.295  53.109  68.359  0.43  4.29           O 0
+ATOM    795   CD LYS A 512      33.498  51.400  69.884  0.00  0.00           C 0
+ATOM    769   CZ ARG A 509      35.913  52.185  76.501  0.00  0.00           C 0
+ATOM    803   CG LYS A 513      41.004  51.138  71.638  0.00  0.00           C 0
+TER
+END

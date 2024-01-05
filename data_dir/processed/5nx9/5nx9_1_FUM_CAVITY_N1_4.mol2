@@ -1,0 +1,17 @@
+#    Name: 5nx9_1_FUM_CAVITY_N1_4
+#    Modification time : Fri May 22 19:17:26 2020
+
+@<TRIPOS>MOLECULE
+5nx9_1_FUM_CAVITY_N1_4
+    1     0     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CA        -18.7400  -21.7700   41.3300 C.3       1 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 GLY6        1 GROUP   
+@<TRIPOS>SET
+

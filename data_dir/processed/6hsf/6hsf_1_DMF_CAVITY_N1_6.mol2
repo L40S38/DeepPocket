@@ -1,0 +1,19 @@
+#    Name: 6hsf_1_DMF_CAVITY_N1_6
+#    Modification time : Fri May 22 19:23:59 2020
+
+@<TRIPOS>MOLECULE
+6hsf_1_DMF_CAVITY_N1_6
+    2     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O          68.3700   43.1900   77.5400 O.2       1 ALA2        0.0000 
+      2 CA         66.8500   42.4200   78.8100 C.3       2 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 GLY6        2 GROUP   
+@<TRIPOS>SET
+

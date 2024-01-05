@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0810
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1242
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6004
+HEADER 5  - Mean B-factor of pocket residues  : 0.1966
+HEADER 6  - Hydrophobicity Score              : -10.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.6318
+HEADER 10 - Pocket volume (convex hull)       : 2.2050
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3145  ND1 HIS B 534      23.899  55.604  32.510  0.52  4.37           N 0
+ATOM   2688  CD2 HIS B 478      23.870  53.548  36.546  0.00  0.00           C 0
+ATOM   4063  NH2AARG B 681      31.321  54.709  36.311  0.00  0.00           N 0
+ATOM   3120   OG SER B 530      27.468  53.524  38.577  0.58  5.36           O 0
+ATOM   3138   OG SER B 533      29.263  59.189  35.307  0.27  9.64           O 0
+ATOM   3174  OD2 ASP B 537      28.334  59.396  30.120  0.00  0.00           O 0
+ATOM   3143   CB HIS B 534      24.168  56.633  34.802  0.00  0.00           C 0
+ATOM   3118    O SER B 530      26.377  56.559  37.748  0.59  1.07           O 0
+ATOM   2690  NE2 HIS B 478      24.741  53.515  37.608  0.00  0.00           N 0
+ATOM   3171   CB ASP B 537      26.092  59.796  30.764  0.00  0.00           C 0
+ATOM   3140   CA HIS B 534      24.827  57.953  34.389  0.00  0.00           C 0
+ATOM   3136    O SER B 533      26.418  60.170  34.216  0.59  1.07           O 0
+ATOM   3139    N HIS B 534      25.682  58.450  35.465  0.00  0.00           N 0
+TER
+END

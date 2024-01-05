@@ -1,0 +1,19 @@
+#    Name: 6fkl_2_GDP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:30:36 2020
+
+@<TRIPOS>MOLECULE
+6fkl_2_GDP_CAVITY_N1_6
+    2     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OG          6.6900   44.7300   17.7100 O.3       1 SER1        0.0000 
+      2 CA          5.4600   46.0200   18.8700 C.3       2 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SER1        1 GROUP   
+     2 GLY6        2 GROUP   
+@<TRIPOS>SET
+

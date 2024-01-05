@@ -1,0 +1,26 @@
+#    Name: 6sh3_4_ADP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:37:15 2020
+
+@<TRIPOS>MOLECULE
+6sh3_4_ADP_CAVITY_N1_4
+    8     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OD1       137.0800   90.1000  146.9700 O.co2     1 ASP3        0.0000 
+      2 OD1       136.0900   91.2100  146.8000 O.co2     1 ASP3        0.0000 
+      3 OD1       136.4700   89.7600  148.3000 O.co2     1 ASP3        0.0000 
+      4 OD1       135.4800   90.8700  148.1300 O.co2     1 ASP3        0.0000 
+      5 CA        138.0300   91.0400  147.6400 C.3       2 GLY6        0.0000 
+      6 CA        138.4100   89.5900  149.1400 C.3       2 GLY6        0.0000 
+      7 DU        137.4200   90.7100  148.9700 H         3 CUB7        0.0000 
+      8 DU        136.4300   91.8200  148.8000 H         3 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ASP3        1 GROUP   
+     2 GLY6        5 GROUP   
+     3 CUB7        7 GROUP   
+@<TRIPOS>SET
+

@@ -1,0 +1,35 @@
+#    Name: 6cd1_2_PLG_CAVITY_N1_4
+#    Modification time : Fri May 22 19:32:22 2020
+
+@<TRIPOS>MOLECULE
+6cd1_2_PLG_CAVITY_N1_4
+   15     0     5     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OG         22.0800   11.2500   92.1700 O.3       1 SER1        0.0000 
+      2 OG         22.4300   12.3500   91.2100 O.3       1 SER1        0.0000 
+      3 OG         21.6500   13.7800   92.5600 O.3       1 SER1        0.0000 
+      4 OG         22.2100   14.5900   93.6900 O.3       1 SER1        0.0000 
+      5 OG         22.5700   15.6800   92.7300 O.3       1 SER1        0.0000 
+      6 OD1        22.6400   12.0500   93.3000 O.co2     2 ASP3        0.0000 
+      7 OD1        23.9900   11.4300   93.0700 O.co2     2 ASP3        0.0000 
+      8 OD1        21.2200   16.3100   92.9600 O.co2     2 ASP3        0.0000 
+      9 NZ         20.6600   15.5000   91.8300 N.4       3 LYS4        0.0000 
+     10 CZ         22.7800   13.4400   90.2500 C.ar      4 PHE5        0.0000 
+     11 CZ         22.0000   14.8800   91.6000 C.ar      4 PHE5        0.0000 
+     12 CZ         23.3500   14.2500   91.3800 C.ar      4 PHE5        0.0000 
+     13 CA         22.9900   13.1500   92.3400 C.3       5 GLY6        0.0000 
+     14 CA         24.3400   12.5300   92.1100 C.3       5 GLY6        0.0000 
+     15 CA         23.5600   13.9600   93.4700 C.3       5 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SER1        1 GROUP   
+     2 ASP3        6 GROUP   
+     3 LYS4        9 GROUP   
+     4 PHE5       10 GROUP   
+     5 GLY6       13 GROUP   
+@<TRIPOS>SET
+

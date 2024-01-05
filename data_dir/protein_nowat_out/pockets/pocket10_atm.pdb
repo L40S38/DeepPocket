@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0020
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9092
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6133
+HEADER 5  - Mean B-factor of pocket residues  : 0.3254
+HEADER 6  - Hydrophobicity Score              : 49.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 168.3020
+HEADER 10 - Pocket volume (convex hull)       : 3.1453
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   2362    O PHE B 437      -0.655  66.617  42.742  0.73  1.07           O 0
+ATOM   2531   CB SER B 458      -3.311  67.469  40.365  0.00  0.00           C 0
+ATOM   2527    N SER B 458      -1.833  65.527  40.300  0.00  0.00           N 0
+ATOM   2819  NE2 HIS B 493      -6.218  63.205  41.717  0.79  8.75           N 0
+ATOM   2817  CD2 HIS B 493      -5.077  62.810  41.061  0.00  0.00           C 0
+ATOM   2361    C PHE B 437      -0.429  67.081  43.858  0.00  0.00           C 0
+ATOM   2382  CG2 ILE B 439      -2.150  60.792  46.746  0.00  0.00           C 0
+ATOM   2372    C SER B 438       0.210  64.198  45.980  0.00  0.00           C 0
+ATOM   2376    N ILE B 439      -0.038  62.897  45.883  0.00  0.00           N 0
+ATOM   2360   CA PHE B 437      -0.650  68.562  44.157  0.00  0.00           C 0
+ATOM   2370    N SER B 438       0.053  66.339  44.850  0.00  0.00           N 0
+ATOM   2371   CA SER B 438       0.367  64.932  44.658  0.00  0.00           C 0
+ATOM   2380   CB ILE B 439      -1.352  61.692  47.650  0.00  0.00           C 0
+ATOM   2514    O ILE B 456      -0.725  62.419  42.977  0.77  2.14           O 0
+ATOM   2517  CG2 ILE B 456      -3.132  60.083  41.963  0.00  0.00           C 0
+TER
+END

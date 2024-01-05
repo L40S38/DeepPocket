@@ -1,0 +1,36 @@
+#    Name: 5vye_1_PLR_CAVITY_N1_4
+#    Modification time : Fri May 22 19:15:12 2020
+
+@<TRIPOS>MOLECULE
+5vye_1_PLR_CAVITY_N1_4
+   16     0     5     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O          48.4800   -0.8700   65.0900 O.2       1 ALA2        0.0000 
+      2 OD1        46.3800   -2.0700   62.3200 O.co2     2 ASP3        0.0000 
+      3 OD1        46.4100   -1.3100   60.3400 O.co2     2 ASP3        0.0000 
+      4 OD1        47.4400   -1.0900   62.7200 O.co2     2 ASP3        0.0000 
+      5 OD1        47.4700   -0.3300   60.7400 O.co2     2 ASP3        0.0000 
+      6 OD1        47.7500    0.2200   64.3600 O.co2     2 ASP3        0.0000 
+      7 NZ         45.6200   -1.7500   63.5700 N.4       3 LYS4        0.0000 
+      8 NZ         44.8900   -0.6600   62.8400 N.4       3 LYS4        0.0000 
+      9 NZ         46.6800   -0.7700   63.9700 N.4       3 LYS4        0.0000 
+     10 NZ         46.9800    0.5400   65.6100 N.4       3 LYS4        0.0000 
+     11 CZ         45.9500    0.3200   63.2400 C.ar      4 PHE5        0.0000 
+     12 CZ         46.7100   -0.0100   61.9900 C.ar      4 PHE5        0.0000 
+     13 CZ         46.7400    0.7600   60.0100 C.ar      4 PHE5        0.0000 
+     14 CZ         47.7700    0.9800   62.3800 C.ar      4 PHE5        0.0000 
+     15 CA         45.6500   -0.9900   61.5900 C.3       5 GLY6        0.0000 
+     16 CA         44.9100    0.1000   60.8700 C.3       5 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 ASP3        2 GROUP   
+     3 LYS4        7 GROUP   
+     4 PHE5       11 GROUP   
+     5 GLY6       15 GROUP   
+@<TRIPOS>SET
+

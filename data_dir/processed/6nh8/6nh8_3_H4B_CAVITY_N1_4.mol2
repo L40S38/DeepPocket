@@ -1,0 +1,33 @@
+#    Name: 6nh8_3_H4B_CAVITY_N1_4
+#    Modification time : Fri May 22 19:33:13 2020
+
+@<TRIPOS>MOLECULE
+6nh8_3_H4B_CAVITY_N1_4
+   13     0     5     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          96.1500  -29.7400 -198.7400 N.am      1 ALA2        0.0000 
+      2 N          96.8800  -27.7600 -198.8700 N.am      1 ALA2        0.0000 
+      3 N          96.6600  -28.7300 -197.7600 N.am      1 ALA2        0.0000 
+      4 NZ         94.3900  -26.6700 -196.4000 N.4       2 LYS4        0.0000 
+      5 NZ         95.7900  -27.1900 -196.5900 N.4       2 LYS4        0.0000 
+      6 CZ         94.7600  -29.2200 -198.5500 C.ar      3 PHE5        0.0000 
+      7 CZ         94.1000  -26.7000 -198.5000 C.ar      3 PHE5        0.0000 
+      8 CZ         93.8800  -27.6800 -197.3800 C.ar      3 PHE5        0.0000 
+      9 CZ         95.4900  -27.2300 -198.6900 C.ar      3 PHE5        0.0000 
+     10 CZ         95.2700  -28.2000 -197.5700 C.ar      3 PHE5        0.0000 
+     11 CA         97.1800  -27.7200 -196.7700 C.3       4 GLY6        0.0000 
+     12 DU         94.6100  -25.6900 -197.5200 H         5 CUB7        0.0000 
+     13 DU         96.0100  -26.2200 -197.7100 H         5 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 LYS4        4 GROUP   
+     3 PHE5        6 GROUP   
+     4 GLY6       11 GROUP   
+     5 CUB7       12 GROUP   
+@<TRIPOS>SET
+

@@ -1,0 +1,29 @@
+#    Name: 5mlv_8_ANP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:17:55 2020
+
+@<TRIPOS>MOLECULE
+5mlv_8_ANP_CAVITY_N1_6
+   11     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N         124.4100   88.5100  230.9400 N.am      1 ALA2        0.0000 
+      2 N         123.6100   89.2500  232.7600 N.am      1 ALA2        0.0000 
+      3 OD1       120.1400   87.6700  235.5800 O.co2     2 ASP3        0.0000 
+      4 CA        124.8700   85.2000  231.2400 C.3       3 GLY6        0.0000 
+      5 CA        120.9400   86.9300  233.7600 C.3       3 GLY6        0.0000 
+      6 CA        122.2600   87.0500  233.0600 C.3       3 GLY6        0.0000 
+      7 CA        123.5800   87.1600  232.3500 C.3       3 GLY6        0.0000 
+      8 CA        124.9000   87.2800  231.6500 C.3       3 GLY6        0.0000 
+      9 CA        121.7700   88.2700  232.3400 C.3       3 GLY6        0.0000 
+     10 CA        123.0900   88.3900  231.6400 C.3       3 GLY6        0.0000 
+     11 CA        121.4600   87.7800  234.8800 C.3       3 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 ASP3        3 GROUP   
+     3 GLY6        4 GROUP   
+@<TRIPOS>SET
+

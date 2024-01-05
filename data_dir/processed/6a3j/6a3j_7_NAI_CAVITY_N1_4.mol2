@@ -1,0 +1,28 @@
+#    Name: 6a3j_7_NAI_CAVITY_N1_4
+#    Modification time : Fri May 22 19:30:21 2020
+
+@<TRIPOS>MOLECULE
+6a3j_7_NAI_CAVITY_N1_4
+    9     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OD1       -40.3200   15.1900  -39.5300 O.co2     1 ASP3        0.0000 
+      2 OD1       -39.9700   12.2600  -38.9700 O.co2     1 ASP3        0.0000 
+      3 OD1       -39.7900   10.8000  -38.6900 O.co2     1 ASP3        0.0000 
+      4 OD1       -39.5400   15.5200  -38.3000 O.co2     1 ASP3        0.0000 
+      5 NZ        -41.0600   10.8000  -37.8900 N.4       2 LYS4        0.0000 
+      6 CZ        -40.5000   16.6500  -39.8100 C.ar      3 PHE5        0.0000 
+      7 CA        -38.8800   13.7300  -40.0500 C.3       4 GLY6        0.0000 
+      8 CA        -38.7000   12.2700  -39.7700 C.3       4 GLY6        0.0000 
+      9 CA        -37.6100   13.7300  -40.8600 C.3       4 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ASP3        1 GROUP   
+     2 LYS4        5 GROUP   
+     3 PHE5        6 GROUP   
+     4 GLY6        7 GROUP   
+@<TRIPOS>SET
+

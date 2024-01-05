@@ -1,0 +1,25 @@
+#    Name: 6hoy_4_TSN_CAVITY_N1_4
+#    Modification time : Fri May 22 19:26:38 2020
+
+@<TRIPOS>MOLECULE
+6hoy_4_TSN_CAVITY_N1_4
+    7     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CZ        -33.6000   16.7600   45.0200 C.ar      1 PHE5        0.0000 
+      2 CZ        -33.0900   17.3800   46.2900 C.ar      1 PHE5        0.0000 
+      3 CZ        -34.4200   17.1500   46.9400 C.ar      1 PHE5        0.0000 
+      4 CZ        -32.6200   16.0300   46.7600 C.ar      1 PHE5        0.0000 
+      5 CA        -34.4700   15.1800   46.1500 C.3       2 GLY6        0.0000 
+      6 CA        -35.8000   14.9500   46.8000 C.3       2 GLY6        0.0000 
+      7 DU        -33.9500   15.8000   47.4100 H         3 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 PHE5        1 GROUP   
+     2 GLY6        5 GROUP   
+     3 CUB7        7 GROUP   
+@<TRIPOS>SET
+

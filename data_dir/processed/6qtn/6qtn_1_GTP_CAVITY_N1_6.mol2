@@ -1,0 +1,23 @@
+#    Name: 6qtn_1_GTP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:29:09 2020
+
+@<TRIPOS>MOLECULE
+6qtn_1_GTP_CAVITY_N1_6
+    4     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OG         15.5500   75.3600   47.7300 O.3       1 SER1        0.0000 
+      2 N          14.9200   74.1800   48.4000 N.am      2 ALA2        0.0000 
+      3 CZ         14.3400   76.6700   48.8800 C.ar      3 PHE5        0.0000 
+      4 CA         13.7000   75.4800   49.5500 C.3       4 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SER1        1 GROUP   
+     2 ALA2        2 GROUP   
+     3 PHE5        3 GROUP   
+     4 GLY6        4 GROUP   
+@<TRIPOS>SET
+

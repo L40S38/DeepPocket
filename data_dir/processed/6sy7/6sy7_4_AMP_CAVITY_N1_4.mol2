@@ -1,0 +1,23 @@
+#    Name: 6sy7_4_AMP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:31:34 2020
+
+@<TRIPOS>MOLECULE
+6sy7_4_AMP_CAVITY_N1_4
+    6     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          41.2500  -44.0100 -118.6200 N.am      1 ALA2        0.0000 
+      2 O          40.1300  -41.8700 -116.2900 O.2       1 ALA2        0.0000 
+      3 N          40.5000  -41.5300 -118.3500 N.am      1 ALA2        0.0000 
+      4 N          41.1400  -42.3700 -117.2800 N.am      1 ALA2        0.0000 
+      5 OD1        39.2200  -43.0100 -116.6400 O.co2     2 ASP3        0.0000 
+      6 OD1        40.2300  -43.5100 -117.6300 O.co2     2 ASP3        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 ASP3        5 GROUP   
+@<TRIPOS>SET
+

@@ -1,0 +1,17 @@
+#    Name: 6k9v_2_GDP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:31:40 2020
+
+@<TRIPOS>MOLECULE
+6k9v_2_GDP_CAVITY_N1_4
+    1     0     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N           7.9300  -54.3300  -15.2900 N.am      1 ALA2        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+@<TRIPOS>SET
+

@@ -1,0 +1,27 @@
+#    Name: 6qk8_2_ARG_SER_PHE_LEU_HIS_ARG_MET_SEP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:26:15 2020
+
+@<TRIPOS>MOLECULE
+6qk8_2_ARG_SER_PHE_LEU_HIS_ARG_MET_SEP_CAVITY_N1_4
+   10     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OD1        24.7900   19.8500   -4.4100 O.co2     1 ASP3        0.0000 
+      2 OD1        23.3700   21.4200   -4.3800 O.co2     1 ASP3        0.0000 
+      3 OD1        27.1000   19.0500   -3.5300 O.co2     1 ASP3        0.0000 
+      4 OD1        25.9200   19.3900   -2.6800 O.co2     1 ASP3        0.0000 
+      5 OD1        25.6800   20.6300   -3.4900 O.co2     1 ASP3        0.0000 
+      6 OD1        24.5000   20.9700   -2.6400 O.co2     1 ASP3        0.0000 
+      7 OD1        24.2600   22.2000   -3.4600 O.co2     1 ASP3        0.0000 
+      8 OD1        23.0800   22.5500   -2.6000 O.co2     1 ASP3        0.0000 
+      9 OD1        27.9900   19.8300   -2.6100 O.co2     1 ASP3        0.0000 
+     10 CA         23.6100   20.1900   -3.5600 C.3       2 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ASP3        1 GROUP   
+     2 GLY6       10 GROUP   
+@<TRIPOS>SET
+

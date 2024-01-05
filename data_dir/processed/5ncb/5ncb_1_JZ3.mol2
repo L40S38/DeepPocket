@@ -1,0 +1,34 @@
+#    Name: 5ncb_1_JZ3
+#    Modification time : Fri May 22 19:14:54 2020
+
+@<TRIPOS>MOLECULE
+5ncb_1_JZ3
+    9     9     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CAA        10.3650   27.7310   45.5310 Du        1 JZ3502      0.0000 
+      2 OAG         9.8050   26.7900   46.4690 Du        1 JZ3502      0.0000 
+      3 CAI         9.3820   27.2650   47.6640 C.ar      1 JZ3502      0.0000 
+      4 CAF         9.2890   28.6330   48.0180 C.ar      1 JZ3502      0.0000 
+      5 CAD         8.8090   29.0100   49.2690 C.ar      1 JZ3502      0.0000 
+      6 CAC         8.4660   28.0390   50.1950 C.ar      1 JZ3502      0.0000 
+      7 CAE         8.5690   26.6800   49.8750 C.ar      1 JZ3502      0.0000 
+      8 CAH         9.0210   26.2910   48.6530 C.ar      1 JZ3502      0.0000 
+      9 OAB         9.1440   24.9670   48.2710 O.3       1 JZ3502      0.0000 
+@<TRIPOS>BOND
+     1    1    2 du   
+     2    2    3 du   
+     3    3    4 ar   
+     4    3    8 ar   
+     5    4    5 ar   
+     6    5    6 ar   
+     7    6    7 ar   
+     8    7    8 ar   
+     9    8    9 1    
+@<TRIPOS>SUBSTRUCTURE
+     1 JZ3502      1 GROUP   
+@<TRIPOS>SET
+

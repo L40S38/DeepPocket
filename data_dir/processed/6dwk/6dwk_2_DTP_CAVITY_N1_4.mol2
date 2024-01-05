@@ -1,0 +1,32 @@
+#    Name: 6dwk_2_DTP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:33:35 2020
+
+@<TRIPOS>MOLECULE
+6dwk_2_DTP_CAVITY_N1_4
+   14     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OD1        35.3600   19.0700   -4.6500 O.co2     1 ASP3        0.0000 
+      2 OD1        33.3300   18.4600   -2.5300 O.co2     1 ASP3        0.0000 
+      3 OD1        36.0500   17.7700   -4.3700 O.co2     1 ASP3        0.0000 
+      4 OD1        34.1900   19.1400   -1.5100 O.co2     1 ASP3        0.0000 
+      5 OD1        33.1800   18.8300   -0.4500 O.co2     1 ASP3        0.0000 
+      6 CZ         36.7400   16.4700   -4.0900 C.ar      2 PHE5        0.0000 
+      7 CZ         35.9000   18.1400   -2.2900 C.ar      2 PHE5        0.0000 
+      8 CZ         34.8800   17.8400   -1.2300 C.ar      2 PHE5        0.0000 
+      9 CA         34.3500   18.7700   -3.5900 C.3       3 GLY6        0.0000 
+     10 CA         35.0300   17.4600   -3.3100 C.3       3 GLY6        0.0000 
+     11 CA         34.0200   17.1600   -2.2500 C.3       3 GLY6        0.0000 
+     12 CA         35.7200   16.1600   -3.0300 C.3       3 GLY6        0.0000 
+     13 CA         36.2200   19.7500   -3.6300 C.3       3 GLY6        0.0000 
+     14 CA         35.2100   19.4500   -2.5700 C.3       3 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ASP3        1 GROUP   
+     2 PHE5        6 GROUP   
+     3 GLY6        9 GROUP   
+@<TRIPOS>SET
+

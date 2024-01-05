@@ -1,0 +1,23 @@
+#    Name: 6ifr_1_ATP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:25:18 2020
+
+@<TRIPOS>MOLECULE
+6ifr_1_ATP_CAVITY_N1_6
+    5     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OD1         2.8900  -15.2300  -40.6400 O.co2     1 ASP3        0.0000 
+      2 CA          3.5800  -16.4300  -40.0500 C.3       2 GLY6        0.0000 
+      3 CA          2.9400  -18.1200  -38.9300 C.3       2 GLY6        0.0000 
+      4 CA          2.2600  -16.9200  -39.5200 C.3       2 GLY6        0.0000 
+      5 DU          1.5800  -15.7100  -40.1000 H         3 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ASP3        1 GROUP   
+     2 GLY6        2 GROUP   
+     3 CUB7        5 GROUP   
+@<TRIPOS>SET
+

@@ -1,0 +1,25 @@
+#    Name: 6i1n_3_JFQ_CAVITY_N1_6
+#    Modification time : Fri May 22 19:43:26 2020
+
+@<TRIPOS>MOLECULE
+6i1n_3_JFQ_CAVITY_N1_6
+    7     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O          36.1400   -8.6300    6.7900 O.2       1 ALA2        0.0000 
+      2 N          35.7100   -9.1000    8.1500 N.am      1 ALA2        0.0000 
+      3 O          37.9300   -8.7500    5.6600 O.2       1 ALA2        0.0000 
+      4 N          37.1100   -8.8600   10.3300 N.am      1 ALA2        0.0000 
+      5 CA         34.3900   -7.6800    9.8800 C.3       2 GLY6        0.0000 
+      6 DU         37.5000   -9.2200    7.0200 H         3 CUB7        0.0000 
+      7 DU         35.7500   -8.2700   10.1100 H         3 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 GLY6        5 GROUP   
+     3 CUB7        6 GROUP   
+@<TRIPOS>SET
+

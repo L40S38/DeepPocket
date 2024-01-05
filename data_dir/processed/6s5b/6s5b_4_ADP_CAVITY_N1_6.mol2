@@ -1,0 +1,28 @@
+#    Name: 6s5b_4_ADP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:27:20 2020
+
+@<TRIPOS>MOLECULE
+6s5b_4_ADP_CAVITY_N1_6
+   10     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O         -20.8900   10.2800   66.7700 O.2       1 ALA2        0.0000 
+      2 N         -21.2200    9.9900   69.3300 N.am      1 ALA2        0.0000 
+      3 OD1       -22.7700    9.3700   66.4200 O.co2     2 ASP3        0.0000 
+      4 OD1       -23.1000    9.0700   68.9800 O.co2     2 ASP3        0.0000 
+      5 CA        -19.1400    9.0900   66.8600 C.3       3 GLY6        0.0000 
+      6 CA        -19.5700   10.2800   66.0600 C.3       3 GLY6        0.0000 
+      7 CA        -20.4600    9.0800   67.5600 C.3       3 GLY6        0.0000 
+      8 CA        -21.7800    9.0800   68.2700 C.3       3 GLY6        0.0000 
+      9 CA        -19.4300   12.3900   66.3200 C.3       3 GLY6        0.0000 
+     10 CA        -20.3300   11.1900   67.8200 C.3       3 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 ASP3        3 GROUP   
+     3 GLY6        5 GROUP   
+@<TRIPOS>SET
+

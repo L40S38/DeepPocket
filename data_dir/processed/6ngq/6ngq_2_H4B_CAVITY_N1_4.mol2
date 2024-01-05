@@ -1,0 +1,24 @@
+#    Name: 6ngq_2_H4B_CAVITY_N1_4
+#    Modification time : Fri May 22 19:31:05 2020
+
+@<TRIPOS>MOLECULE
+6ngq_2_H4B_CAVITY_N1_4
+    6     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 NZ         12.7500    0.7200   52.8300 N.4       1 LYS4        0.0000 
+      2 CZ         13.1700    1.9800   52.1400 C.ar      2 PHE5        0.0000 
+      3 CZ         11.7800    2.5200   52.2800 C.ar      2 PHE5        0.0000 
+      4 CZ         13.5500    2.5800   53.4600 C.ar      2 PHE5        0.0000 
+      5 CZ         12.1600    3.1200   53.6100 C.ar      2 PHE5        0.0000 
+      6 DU         11.3600    1.2600   52.9800 H         3 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 LYS4        1 GROUP   
+     2 PHE5        2 GROUP   
+     3 CUB7        6 GROUP   
+@<TRIPOS>SET
+

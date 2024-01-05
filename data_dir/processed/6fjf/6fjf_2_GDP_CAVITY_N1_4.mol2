@@ -1,0 +1,20 @@
+#    Name: 6fjf_2_GDP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:25:01 2020
+
+@<TRIPOS>MOLECULE
+6fjf_2_GDP_CAVITY_N1_4
+    3     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N           9.5700   51.9500   14.3700 N.am      1 ALA2        0.0000 
+      2 N           8.3200   53.2000   15.5500 N.am      1 ALA2        0.0000 
+      3 CZ         10.3600   50.1700   15.2000 C.ar      2 PHE5        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 PHE5        3 GROUP   
+@<TRIPOS>SET
+

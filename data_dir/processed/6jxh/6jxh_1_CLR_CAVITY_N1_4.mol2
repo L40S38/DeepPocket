@@ -1,0 +1,15 @@
+#    Name: 6jxh_1_CLR_CAVITY_N1_4
+#    Modification time : Fri May 22 19:35:40 2020
+
+@<TRIPOS>MOLECULE
+6jxh_1_CLR_CAVITY_N1_4
+    0     0     0     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+@<TRIPOS>SET
+

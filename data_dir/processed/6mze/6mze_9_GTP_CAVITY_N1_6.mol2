@@ -1,0 +1,25 @@
+#    Name: 6mze_9_GTP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:35:03 2020
+
+@<TRIPOS>MOLECULE
+6mze_9_GTP_CAVITY_N1_6
+    6     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          40.6000  -18.3300  127.9900 N.am      1 ALA2        0.0000 
+      2 N          41.7700  -18.2200  127.0600 N.am      1 ALA2        0.0000 
+      3 OD1        40.9400  -19.7500  125.8400 O.co2     2 ASP3        0.0000 
+      4 OD1        42.1100  -19.6400  124.9100 O.co2     2 ASP3        0.0000 
+      5 NZ         42.2100  -21.1300  124.8700 N.4       3 LYS4        0.0000 
+      6 CA         41.8700  -19.7100  127.0200 C.3       4 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALA2        1 GROUP   
+     2 ASP3        3 GROUP   
+     3 LYS4        5 GROUP   
+     4 GLY6        6 GROUP   
+@<TRIPOS>SET
+

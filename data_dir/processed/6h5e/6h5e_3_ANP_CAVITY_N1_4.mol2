@@ -1,0 +1,29 @@
+#    Name: 6h5e_3_ANP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:32:15 2020
+
+@<TRIPOS>MOLECULE
+6h5e_3_ANP_CAVITY_N1_4
+   11     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CZ         32.8900   97.7500  162.5000 C.ar      1 PHE5        0.0000 
+      2 CZ         34.2600   98.1800  162.9400 C.ar      1 PHE5        0.0000 
+      3 CA         33.6500   99.2600  163.7800 C.3       2 GLY6        0.0000 
+      4 CA         35.1700  101.5900  161.9000 C.3       2 GLY6        0.0000 
+      5 CA         35.0900  100.6400  163.0600 C.3       2 GLY6        0.0000 
+      6 CA         35.7000   99.5600  162.2200 C.3       2 GLY6        0.0000 
+      7 DU         32.9600   98.7000  161.3400 H         3 CUB7        0.0000 
+      8 DU         33.5700   97.6200  160.5000 H         3 CUB7        0.0000 
+      9 DU         34.3300   99.1300  161.7800 H         3 CUB7        0.0000 
+     10 DU         34.9400   98.0500  160.9400 H         3 CUB7        0.0000 
+     11 DU         35.7700  100.5100  161.0600 H         3 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 PHE5        1 GROUP   
+     2 GLY6        3 GROUP   
+     3 CUB7        7 GROUP   
+@<TRIPOS>SET
+

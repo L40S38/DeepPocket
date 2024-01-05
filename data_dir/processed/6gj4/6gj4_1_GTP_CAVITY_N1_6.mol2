@@ -1,0 +1,24 @@
+#    Name: 6gj4_1_GTP_CAVITY_N1_6
+#    Modification time : Fri May 22 19:32:24 2020
+
+@<TRIPOS>MOLECULE
+6gj4_1_GTP_CAVITY_N1_6
+    5     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OG         15.0900   75.5700   48.4300 O.3       1 SER1        0.0000 
+      2 N          14.4300   74.4000   49.1000 N.am      2 ALA2        0.0000 
+      3 N          13.7800   73.2200   49.7700 N.am      2 ALA2        0.0000 
+      4 CZ         14.0000   77.5800   50.8900 C.ar      3 PHE5        0.0000 
+      5 CA         13.2200   75.7200   50.2300 C.3       4 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SER1        1 GROUP   
+     2 ALA2        2 GROUP   
+     3 PHE5        4 GROUP   
+     4 GLY6        5 GROUP   
+@<TRIPOS>SET
+

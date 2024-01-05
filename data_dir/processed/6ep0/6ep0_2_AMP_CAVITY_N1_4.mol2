@@ -1,0 +1,19 @@
+#    Name: 6ep0_2_AMP_CAVITY_N1_4
+#    Modification time : Fri May 22 19:30:17 2020
+
+@<TRIPOS>MOLECULE
+6ep0_2_AMP_CAVITY_N1_4
+    3     0     1     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CA        -28.5700   31.5200   12.3800 C.3       1 GLY6        0.0000 
+      2 CA        -28.1300   32.3800   14.2600 C.3       1 GLY6        0.0000 
+      3 CA        -28.3600   33.7500   13.6900 C.3       1 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 GLY6        1 GROUP   
+@<TRIPOS>SET
+

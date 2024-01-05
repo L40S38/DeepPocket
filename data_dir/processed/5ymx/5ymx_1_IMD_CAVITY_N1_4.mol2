@@ -1,0 +1,15 @@
+#    Name: 5ymx_1_IMD_CAVITY_N1_4
+#    Modification time : Fri May 22 19:13:36 2020
+
+@<TRIPOS>MOLECULE
+5ymx_1_IMD_CAVITY_N1_4
+    0     0     0     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+@<TRIPOS>SET
+

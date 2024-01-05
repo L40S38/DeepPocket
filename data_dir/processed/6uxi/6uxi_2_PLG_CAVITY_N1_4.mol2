@@ -1,0 +1,27 @@
+#    Name: 6uxi_2_PLG_CAVITY_N1_4
+#    Modification time : Fri May 22 19:25:46 2020
+
+@<TRIPOS>MOLECULE
+6uxi_2_PLG_CAVITY_N1_4
+    8     0     4     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OD1       -21.5600  -29.8800    4.5400 O.co2     1 ASP3        0.0000 
+      2 OD1       -20.7500  -29.2700    3.4400 O.co2     1 ASP3        0.0000 
+      3 OD1       -20.9500  -28.9100    5.5200 O.co2     1 ASP3        0.0000 
+      4 OD1       -20.1400  -28.3000    4.4100 O.co2     1 ASP3        0.0000 
+      5 NZ        -21.7600  -29.5200    6.6200 N.4       2 LYS4        0.0000 
+      6 NZ        -22.0600  -27.9400    5.2400 N.4       2 LYS4        0.0000 
+      7 CZ        -22.8700  -28.5500    6.3500 C.ar      3 PHE5        0.0000 
+      8 CA        -19.3300  -27.6900    3.3100 C.3       4 GLY6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ASP3        1 GROUP   
+     2 LYS4        5 GROUP   
+     3 PHE5        7 GROUP   
+     4 GLY6        8 GROUP   
+@<TRIPOS>SET
+

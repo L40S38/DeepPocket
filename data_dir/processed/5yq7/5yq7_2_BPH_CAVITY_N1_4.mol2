@@ -1,0 +1,25 @@
+#    Name: 5yq7_2_BPH_CAVITY_N1_4
+#    Modification time : Fri May 22 19:16:20 2020
+
+@<TRIPOS>MOLECULE
+5yq7_2_BPH_CAVITY_N1_4
+    8     0     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 CA        107.8900  100.7600  117.3000 C.3       1 GLY6        0.0000 
+      2 CA        108.7300  101.7400  118.0600 C.3       1 GLY6        0.0000 
+      3 CA        109.1800  102.3600  116.7700 C.3       1 GLY6        0.0000 
+      4 CA        109.6400  102.9800  115.4900 C.3       1 GLY6        0.0000 
+      5 CA        107.5700  102.6900  118.1100 C.3       1 GLY6        0.0000 
+      6 CA        108.0200  103.3100  116.8200 C.3       1 GLY6        0.0000 
+      7 DU        106.7300  101.7100  117.3500 H         2 CUB7        0.0000 
+      8 DU        105.5700  102.6600  117.4000 H         2 CUB7        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 GLY6        1 GROUP   
+     2 CUB7        7 GROUP   
+@<TRIPOS>SET
+
