@@ -1,5 +1,8 @@
 # model ignore
+*.pth.tar
+./classifier_models/
+./segmentation_models/
 
 # dataset ignore
-./data_dir/
 *.tar.gz
+./data_dir/
