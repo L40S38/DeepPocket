@@ -6,3 +6,9 @@
 # dataset ignore
 *.tar.gz
 ./data_dir/
+
+# jupyter-lab cache ignore
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+
