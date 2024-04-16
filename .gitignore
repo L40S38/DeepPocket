@@ -3,6 +3,9 @@
 ./classifier_models/
 ./segmentation_models/
 
+# molcache ignore
+*.molcache2
+
 # dataset ignore
 *.tar.gz
 ./data_dir/
