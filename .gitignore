@@ -10,6 +10,9 @@
 *.tar.gz
 ./data_dir/
 
+# sample data ignore
+./sample_pdb/
+
 # jupyter-lab cache ignore
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
