@@ -2,9 +2,15 @@
 *.pth.tar
 ./classifier_models/
 ./segmentation_models/
+./classification_models/
 
 # molcache ignore
 *.molcache2
+
+# types ignore
+./classification_types/
+./segmentation_types/
+
 
 # dataset ignore
 *.tar.gz
